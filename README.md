@@ -1,5 +1,3 @@
-**更新时间：2021/03/26(完结)**  
-翻译此文时间: 2020.12.21  
 原文地址: [tranek/GASDocumentation](https://github.com/BillEliot/GASDocumentation)  
 翻译地址: [BillEliot/GASDocumentation_Chinese](https://github.com/BillEliot/GASDocumentation_Chinese)  
 
